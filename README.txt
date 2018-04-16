@@ -13,3 +13,7 @@ As a quick reminder, this came from one of three locations in either SSH, Git, o
 We can, as an example effort, even modify this README and change it as if it were source code for the purposes of the class.
 
 This demo also includes an image with changes on a branch for examination of image diff on GitHub. And i'm so cool man yeet
+
+Pretend you're water. Just floating without any effort. Having a good day. 
+Isn't that fantastic? You can just push a little tree out of your brush like that. 
+I can't think of anything more rewarding than being able to express yourself to others through painting.
